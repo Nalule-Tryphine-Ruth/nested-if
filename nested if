@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main(){
+/* AND - &&
+OR - ||
+*/
+if (78 >= 8 && 7 != 8)
+{
+//block A
+printf("this is true. Block A\n");
+} else
+{
+//Block B
+printf("This is false. Block B\n"); 
+}

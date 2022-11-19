@@ -37,3 +37,21 @@ printf("60 is not less than 0\n");
 {
 printf("5 is not equal to 5\n");
 }
+
+//ELSE IF
+if (5.78 == 5.78)
+{
+// block a will be run if the condition is true 
+//if not it goes to the next condition
+printf("5.78 is equal to 5.78");
+} else if (4.99 < 4.92)
+{
+// block b will be run if the condition is true 
+//if not it goes to the next condition
+printf("4.99 is less than 4.92");
+}else
+{
+// block d will be run if all the above condition are false
+printf("4.88 is not less than 4.92");
+}
+return 0;

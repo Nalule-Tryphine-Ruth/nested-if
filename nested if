@@ -22,3 +22,18 @@ printf("this is true.\n");
 {
 printf("this is false\n");
 }
+
+//Nested If
+if (5 == 5)
+{ printf("5 is equal to 5\n");
+if (60 < 0)
+{
+printf("60 is less 0 \n"); 
+}else
+{
+printf("60 is not less than 0\n");
+}
+}else
+{
+printf("5 is not equal to 5\n");
+}

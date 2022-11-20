@@ -4,7 +4,7 @@ int main(){
 /* AND - &&
 OR - ||
 */
-if (78 >= 8 && 7 != 8)
+if (80 >= 10 && 7 != 8)
 {
 //block A
 printf("this is true. Block A\n");

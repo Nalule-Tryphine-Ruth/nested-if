@@ -44,14 +44,17 @@ if (6 == 6)
 // block a will be run if the condition is true 
 //if not it goes to the next condition
 printf("6 is equal to 6");
+
+} else if (4.90 < 4.99)
+
 } else if (4.99 < 4.92)
 {
 // block b will be run if the condition is true 
 //if not it goes to the next condition
-printf("4.99 is less than 4.92");
+printf("4.90 is less than 4.99");
 }else
 {
 // block d will be run if all the above condition are false
-printf("4.88 is not less than 4.92");
+printf("4.90 is not less than 4.99");
 }
 return 0;

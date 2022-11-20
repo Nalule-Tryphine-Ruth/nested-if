@@ -39,7 +39,7 @@ printf("5 is not equal to 5\n");
 }
 
 //ELSE IF
-if (5.78 == 5.78)
+if (6 == 6)
 {
 // block a will be run if the condition is true 
 //if not it goes to the next condition

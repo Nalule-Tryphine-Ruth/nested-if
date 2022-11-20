@@ -43,7 +43,7 @@ if (6 == 6)
 {
 // block a will be run if the condition is true 
 //if not it goes to the next condition
-printf("5.78 is equal to 5.78");
+printf("6 is equal to 6");
 } else if (4.99 < 4.92)
 {
 // block b will be run if the condition is true 

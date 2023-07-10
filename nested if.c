@@ -6,7 +6,8 @@ OR - ||
 */
 if (80 >= 10 && 7 != 8)
 {
-//block A
+//block
+//printf displays data on a screen
 printf("this is true. Block A\n");
 } else
 {
